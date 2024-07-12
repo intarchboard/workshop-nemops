@@ -4,4 +4,6 @@ This is the working area for the Program Committee of the workshop.
 
 ## Workshop Description
 
-The initial text (and associated history) of the file ["IAB Workshop.md"](IAB%20Workshop.md) can be found at [NMOP](https://github.com/ietf-wg-nmop/Logistic/blob/main/IAB%20Workshop.md).
+The draft text for the workshop description is [here](IAB%20Workshop.md).
+
+The initial text (and associated history) of this file ["IAB Workshop.md"](IAB%20Workshop.md) can be found at [NMOP](https://github.com/ietf-wg-nmop/Logistic/blob/main/IAB%20Workshop.md).
