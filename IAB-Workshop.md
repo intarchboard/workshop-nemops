@@ -76,7 +76,7 @@ The online workshop would likely be three 2-3h sessions spread over the week bas
 This workshop will be held online. 
 
 - Initial submissions Due: 2024-10-16 AOE
-- Invitations Issued by: 2024-11-20
+- Invitations Issued by: 2024-11-13
 - Workshop Dates (TBD): 2024-12-03, 2024-12-04, 2024-12-05
 - Workshop Times: 15:00-19:00 UTC
 - Program Committee (TBD): Wes Hardaker, Qin Wu, Suresh Krishnan, Benoît Claise, Mohamed Boucadair, Mahesh Jethanandani, Dhruv Dhody 
