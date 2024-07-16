@@ -60,7 +60,7 @@ In 2002, many network operators attended IETF meetings and participated in netwo
 
 Under this effort, we expect some workshop participants to stimulate an outreach effort to attract opinions and interest by visiting these other venues and running information and requirement gathering sessions. This series of outreach efforts will result in workshop position papers that will provide valuable summarized feedback to the online NEMOPS Workshop. 
 
-The mailing list nemops-interest@iab.org will be used for outreach events at other conferences, general announcements, and related discussions before (and after) the workshop is held at the end of 2024.
+The mailing list nemops-interest@iab.org will be used for outreach events at other conferences, general announcements, and related discussions before (and after) the workshop.
 
 ## Workshop
 
