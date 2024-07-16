@@ -12,7 +12,9 @@ what recommendations and requirements have changed or still need pursing. This n
 
 - Review the outcomes and results of the 2002 workshop (current deployments, state of the art) and identify any operational barriers that prevent these technologies from being widely implemented (limitations, hurdles).
 
-- Sketch new requirements for future network management operations in a collaborative manner with the industry, network operators and protocol engineers and develop a plan of action and recommendations for the IETF.
+- Sketch new requirements for future network management operations in a collaborative manner with the industry, network operators, and protocol engineers.
+
+ - Develop a plan of action and recommendations for the IETF.
 
 ## Review of the 2002 Workshop Outcomes
 
