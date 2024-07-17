@@ -14,7 +14,7 @@ what recommendations and requirements have changed or still need pursing. This n
 
 - Sketch new requirements for future network management operations in a collaborative manner with the industry, network operators, and protocol engineers.
 
- - Develop a plan of action and recommendations for the IETF.
+- Develop a plan of action and recommendations for the IETF.
 
 ## Review of the 2002 Workshop Outcomes
 
