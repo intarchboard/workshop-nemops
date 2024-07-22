@@ -6,18 +6,21 @@ The IAB organized a workshop in June 2002 to establish a dialog between network 
 
 Those requirements were instrumental in developing first the NETCONF protocol (in the NETCONF Working Group) [RFC6241], the associated YANG data modeling language (in the NETMOD Working Group) [RFC7950], RESTCONF [RFC8040], and most recently CORECONF [I-D.ietf-core-comi].
 
-
-More than 20 years later, it is timely to evaluate what has been achieved since the original workshop. This new workshop aims to discuss the following key topics:
+It has been more than 20 years since that IAB workshop and it is time
+to evaluate what has been achieved since the original workshop and
+what recommendations and requirements have changed or still need pursing. This new workshop aims to discuss the following key topics:
 
 - Review the outcomes and results of the 2002 workshop (current deployments, state of the art) and identify any operational barriers that prevent these technologies from being widely implemented (limitations, hurdles).
 
-- Sketch new requirements for future network management operations in a collaborative manner with the industry, and develop a plan of action and recommendations for the IETF.
+- Sketch new requirements for future network management operations in a collaborative manner with the industry, network operators, and protocol engineers.
+
+- Develop a plan of action and recommendations for the IETF.
 
 ## Review of the 2002 Workshop Outcomes
 
-The IAB NEMOPS workshop will provide an assessment of the RFC3535 requirements in terms of specifications completeness. Also, this workshop will assess to what extent the RFC3535 recommendations were driving network management efforts within the IETF and influencing other Standards Development Organizations' (SDOs) activities. 
+The first focus of the IAB NEMOPS workshop will be to assess the recommendations and requirements documented in RFC3535 in terms of specification completeness, deployment and utilization. Also, this workshop will assess to what extent the RFC3535 recommendations were driving network management efforts within the IETF and influencing other Standards Development Organizations' (SDOs) activities. 
 
-Regarding operator deployments, discussion topics will include, but are not limited to:
+Discussion topics will include, but are not limited to:
 
 - What do implementations and deployments look like today?
 
@@ -31,13 +34,15 @@ Regarding operator deployments, discussion topics will include, but are not limi
 
 - What alternative (i.e., non-IETF) solutions are being deployed that better fit operators' needs?
 
+- What recommendations and requirements from RFC3535 have received either or both little implementation or deployment?
+
 ## Laying a path for the future of Network Management
 
-Network topologies have become significantly more complex since the 2002 IAB workshop, as have the router and host technologies. Assuming this trend will continue, this workshop's ambition is to lay a new directional foundation for the continued future of network management protocols, gathering new input on what new issues network operators and network management implementers are facing.
+Network topologies have become significantly more complex since the 2002 IAB workshop, as have both router and host technologies. Assuming this trend will continue, this workshop's ambition is to lay a new directional foundation for the continued future of network management protocols by gathering new input on what new issues network operators and network management implementers are facing.
 
-The candidate items for discussion include, but are not limited to:
+Discussion topics will include, but are not limited to:
 
-- Tooling, opensource, experimentation, proof of concept, multi-vendor interoperability test (e.g., EANTC), system integration
+- Tooling, opensource, experimentation, proof of concept, multi-vendor interoperability test (e.g., EANTC), and system integration
 
 - Data consistency to support richer observability (Data & Knowledge)
 
@@ -45,19 +50,19 @@ The candidate items for discussion include, but are not limited to:
 
 - Automation, orchestration, and autonomy 
 
-Recommendations that may come out of this effort should be helpful to the global industry, including the IETF, the IRTF, as well as implementers, operational groups, and other entities.
+Recommendations that may come out of this effort should be helpful to the standardization development organizations including the IETF and the IRTF, as well as the global industry's implementers, operational groups, and other entities.
 
 ## Out of scope topics
 
-A workshop dedicated to management techniques related to encrypted networks has recently been held [RFC9490]. Another workshop dedicated to the environmental impact of Internet applications and systems has also been held [RFC9547]. These topics are, therefore, out of scope for this workshop. Topics that are clearly in the scope of NMRG in IRTF are also out of scope. 
+A workshop dedicated to management techniques related to encrypted networks has recently been held [RFC9490]. Another workshop dedicated to the environmental impact of Internet applications and systems has also been held [RFC9547]. These topics are, therefore, out of scope for this workshop. Topics that are clearly in the scope of NMRG in the IRTF are also out of scope. 
 
 ## Pre-Workshop Information Gathering & Outreach
 
-In 2002, many network operators attended IETF meetings and participated in network management protocol discussions. Direct IETF participation from network operators has since decreased, with many operators focusing on conferences that are more central to their needs (RIPE, NANOG, APRICOT, AutoConn, etc.). These are not an official part of the IAB workshop.
+In 2002, many network operators attended IETF meetings and participated in network management protocol discussions. Direct IETF participation from network operators has since decreased, with many operators focusing on conferences that are more central to their needs (RIPE, NANOG, APRICOT, AutoConn, etc.).
 
-Under this effort, we expect to stimulate an outreach effort to attract opinions and interest by visiting these other venues and running virtual sessions. This series of outreach efforts will be concluded by a final online Workshop where the group will summarize the findings. 
+Under this effort, we expect some workshop participants to stimulate an outreach effort to attract opinions and interest by visiting these other venues and running information and requirement gathering sessions. This series of outreach efforts will result in workshop position papers that will provide valuable summarized feedback to the online NEMOPS Workshop. 
 
-The mailing list nemops-interest@iab.org will be used for outreach events at other conferences, general announcements, and related discussions before the workshop.
+The mailing list nemops-interest@iab.org will be used for outreach events at other conferences, general announcements, and related discussions before (and after) the workshop.
 
 ## Workshop
 
@@ -72,9 +77,10 @@ The online workshop would likely be three 2-3h sessions spread over the week bas
 ### Logistics 
 This workshop will be held online. 
 
-- Submissions Due: TBD
-- Invitations Issued by: TBD
-- Workshop Dates (TBD): 1 week of December 2024
+- Initial submissions Due: 2024-10-16 AOE
+- Invitations Issued by: 2024-11-13
+- Workshop Dates (TBD): 2024-12-03, 2024-12-04, 2024-12-05
+- Workshop Times: 15:00-19:00 UTC
 - Program Committee (TBD): Wes Hardaker, Qin Wu, Suresh Krishnan, Benoît Claise, Mohamed Boucadair, Mahesh Jethanandani, Dhruv Dhody 
 
 Feel free to contact the Program Committee with any further questions: nemops-workshop-pc@iab.org.
