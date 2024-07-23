@@ -6,9 +6,7 @@ The IAB organized a workshop in June 2002 to establish a dialog between network 
 
 Those requirements were instrumental in developing first the NETCONF protocol (in the NETCONF Working Group) [RFC6241], the associated YANG data modeling language (in the NETMOD Working Group) [RFC7950], RESTCONF [RFC8040], and most recently CORECONF [I-D.ietf-core-comi].
 
-It has been more than 20 years since that IAB workshop and it is time
-to evaluate what has been achieved since the original workshop and
-what recommendations and requirements have changed or still need pursing. This new workshop aims to discuss the following key topics:
+It has been more than 20 years since that IAB workshop and it is time to evaluate what has been achieved since the original workshop and what recommendations and requirements have changed or still need pursing. This new workshop aims to discuss the following key topics:
 
 - Review the outcomes and results of the 2002 workshop (current deployments, state of the art) and identify any operational barriers that prevent these technologies from being widely implemented (limitations, hurdles).
 
@@ -60,7 +58,7 @@ A workshop dedicated to management techniques related to encrypted networks has 
 
 In 2002, many network operators attended IETF meetings and participated in network management protocol discussions. Direct IETF participation from network operators has since decreased, with many operators focusing on conferences that are more central to their needs (RIPE, NANOG, APRICOT, AutoConn, etc.).
 
-Under this effort, we expect some workshop participants to stimulate an outreach effort to attract opinions and interest by visiting these other venues and running information and requirement gathering sessions. This series of outreach efforts will result in workshop position papers that will provide valuable summarized feedback to the online NEMOPS Workshop. 
+Under this effort, we expect some workshop participants to stimulate an outreach effort to attract opinions and interest by visiting these other venues and running information and requirement-gathering sessions. This series of outreach efforts will result in workshop position papers that will provide valuable summarized feedback to the online NEMOPS Workshop. 
 
 The mailing list nemops-interest@iab.org will be used for outreach events at other conferences, general announcements, and related discussions before (and after) the workshop.
 
