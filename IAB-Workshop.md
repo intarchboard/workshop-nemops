@@ -52,7 +52,7 @@ Recommendations that may come out of this effort should be helpful to the standa
 
 ## Out of scope topics
 
-A workshop dedicated to management techniques related to encrypted networks has recently been held [RFC9490]. Another workshop dedicated to the environmental impact of Internet applications and systems has also been held [RFC9547]. These topics are, therefore, out of scope for this workshop. Topics that are clearly in the scope of NMRG in the IRTF are also out of scope. 
+A workshop dedicated to management techniques related to encrypted networks has recently been held [RFC9490]. Another workshop dedicated to the environmental impact of Internet applications and systems has also been held [RFC9547]. These topics are, therefore, out of scope for this workshop. Topics that are clearly in the scope of NMRG in the IRTF for long term research are also out of scope. 
 
 ## Pre-Workshop Information Gathering & Outreach
 
@@ -77,8 +77,8 @@ This workshop will be held online.
 
 - Initial submissions Due: 2024-10-16 AOE
 - Invitations Issued by: 2024-11-13
-- Workshop Dates (TBD): 2024-12-03, 2024-12-04, 2024-12-05
-- Workshop Times: 15:00-19:00 UTC
+- Workshop Dates : 2024-12-03, 2024-12-04, 2024-12-05
+- Workshop Times: 15:00-18:00 UTC
 - Program Committee (TBD): Wes Hardaker, Qin Wu, Suresh Krishnan, Benoît Claise, Mohamed Boucadair, Mahesh Jethanandani, Dhruv Dhody 
 
 Feel free to contact the Program Committee with any further questions: nemops-workshop-pc@iab.org.
