@@ -40,7 +40,7 @@ Network topologies have become significantly more complex since the 2002 IAB wor
 
 Discussion topics will include, but are not limited to:
 
-- Tooling, opensource, experimentation, proof of concept, multi-vendor interoperability test (e.g., EANTC), and system integration
+- Tooling, open source, experimentation, proof of concept, multi-vendor interoperability test (e.g., EANTC), and system integration
 
 - Data consistency to support richer observability (Data & Knowledge)
 
@@ -52,7 +52,7 @@ Recommendations that may come out of this effort should be helpful to the standa
 
 ## Out of scope topics
 
-A workshop dedicated to management techniques related to encrypted networks has recently been held [RFC9490]. Another workshop dedicated to the environmental impact of Internet applications and systems has also been held [RFC9547]. These topics are, therefore, out of scope for this workshop. Topics that are clearly in the scope of NMRG in the IRTF for long term research are also out of scope. 
+A workshop dedicated to management techniques related to encrypted networks has recently been held [RFC9490]. Another workshop dedicated to the environmental impact of Internet applications and systems has also been held [RFC9547]. These topics are, therefore, out of scope for this workshop. Topics that are clearly in the scope of NMRG in the IRTF for long-term research are also out of scope. 
 
 ## Pre-Workshop Information Gathering & Outreach
 
@@ -64,7 +64,7 @@ The mailing list nemops-interest@iab.org will be used for outreach events at oth
 
 ## Workshop
 
-Interested participants in the workshop are invited to submit position papers on the workshop topics. There are no restrictions on the format. Participants can choose their preferred format, including Internet-Drafts, text- or word-based documents, or papers formatted similar as used by academic publication venues. Submission as PDF is preferred. Paper size is not limited, but brevity is encouraged. Interested participants who have published relevant academic papers may submit these as a position paper, optionally with a short abstract explaining their interest and the paper’s relevance to the workshop. The workshop itself will be focused on discussions based on the position paper topics received.
+Interested participants in the workshop are invited to submit position papers on the workshop topics. There are no restrictions on the format. Participants can choose their preferred format, including Internet-Drafts, text- or word-based documents, or papers formatted similarly to academic publication venues. Submission as PDF is preferred. Paper size is not limited, but brevity is encouraged. Interested participants who have published relevant academic papers may submit these as a position paper, optionally with a short abstract explaining their interest and the paper’s relevance to the workshop. The workshop itself will be focused on discussions based on the position paper topics received.
 
 All inputs submitted and considered relevant will be published on the workshop website. The organizers will issue invitations based on the submissions received. Sessions will be organized according to content, and not every accepted submission or invited attendee will have an opportunity to present; the intent is to foster an active discussion and not simply to have a sequence of presentations. The workshop may also include breakout sessions. A workshop report covering all submissions and the workshop discussion will be published afterwards.
 
@@ -79,7 +79,7 @@ This workshop will be held online.
 - Invitations Issued by: 2024-11-13
 - Workshop Dates : 2024-12-03, 2024-12-04, 2024-12-05
 - Workshop Times: 15:00-18:00 UTC
-- Program Committee (TBD): Wes Hardaker, Qin Wu, Suresh Krishnan, Benoît Claise, Mohamed Boucadair, Mahesh Jethanandani, Dhruv Dhody 
+- Program Committee (TBD): Wes Hardaker, Qin Wu, Suresh Krishnan, Benoît Claise, Mohamed Boucadair, Mahesh Jethanandani, Dhruv Dhody, Kent Watson 
 
 Feel free to contact the Program Committee with any further questions: nemops-workshop-pc@iab.org.
 
