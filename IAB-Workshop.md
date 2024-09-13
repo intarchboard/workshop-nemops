@@ -79,7 +79,7 @@ This workshop will be held online.
 - Invitations Issued by: 2024-11-13
 - Workshop Dates : 2024-12-03, 2024-12-04, 2024-12-05
 - Workshop Times: 15:00-18:00 UTC
-- Program Committee (TBD): Wes Hardaker, Qin Wu, Suresh Krishnan, Benoît Claise, Mohamed Boucadair, Mahesh Jethanandani, Dhruv Dhody, Kent Watson 
+- Program Committee (TBD): Wes Hardaker, Qin Wu, Suresh Krishnan, Benoît Claise, Mohamed Boucadair, Mahesh Jethanandani, Dhruv Dhody, Kent Watson, Warren Kumari 
 
 Feel free to contact the Program Committee with any further questions: nemops-workshop-pc@iab.org.
 
