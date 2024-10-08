@@ -68,7 +68,9 @@ Interested participants in the workshop are invited to submit position papers on
 
 All inputs submitted and considered relevant will be published on the workshop website. The organizers will issue invitations based on the submissions received. Sessions will be organized according to content, and not every accepted submission or invited attendee will have an opportunity to present; the intent is to foster an active discussion and not simply to have a sequence of presentations. The workshop may also include breakout sessions. A workshop report covering all submissions and discussions will be published afterward.
 
-The workshop will be by invitation only. Those wishing to attend should submit a position paper to address the above topics and questions. Position papers from those not planning to participate in the workshop themselves are also encouraged.
+The workshop will be by invitation only. Those wishing to attend should submit a "position paper" or "expressions of interest" to address the above topics and questions. Position papers from those not planning to participate in the workshop themselves are also encouraged. 
+
+Additionally, we request network operators to complete the survey to help us better understand current network management practices, challenges, and future needs. The survey responses will provide valuable input for the workshop - https://ietf.iad1.qualtrics.com/jfe/form/SV_9vQxBRiZqDntarc .
 
 The online workshop would likely be three 2-3h sessions spread over the week based on submissions and the availability of the invited participants. 
 
@@ -79,7 +81,7 @@ This workshop will be held online.
 - Invitations Issued by: 2024-11-13
 - Workshop Dates : 2024-12-03, 2024-12-04, 2024-12-05
 - Workshop Times: 15:00-18:00 UTC
-- Program Committee: Wes Hardaker, Qin Wu, Suresh Krishnan, Benoît Claise, Mohamed Boucadair, Mahesh Jethanandani, Dhruv Dhody, Kent Watson, Warren Kumari 
+- Program Committee: Wes Hardaker, Qin Wu, Suresh Krishnan, Benoît Claise, Mohamed Boucadair, Mahesh Jethanandani, Dhruv Dhody, Kent Watsen, Warren Kumari 
 
 Feel free to contact the Program Committee with any further questions: nemops-workshop-pc@iab.org.
 
